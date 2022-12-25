@@ -1,5 +1,5 @@
 # Faq Accordion Card
 
-### Link Repositório
+### Link [Repositório](https://github.com/davidwilliamx/faq-accordion-card)
 
-### Link Preview
+### Link [Preview](https://davidwilliamx.github.io/faq-accordion-card)
